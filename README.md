@@ -13,11 +13,11 @@ The topics that are delves into are listed below:
 - [x] Migrations and Django Admin
 - [x] Data Operations in Django with Queries
 - [x] Working with Queries in Django
-- [ ] Django Models Relations
-- [ ] Models Inheritance and Customization
-- [ ] Advanced Django Model Techniques
-- [ ] Advanced Queries in Django
-- [ ] SQLAlchemy
+- [X] Django Models Relations
+- [X] Models Inheritance and Customization
+- [X] Advanced Django Model Techniques
+- [X] Advanced Queries in Django
+- [X] SQLAlchemy
 
 
 
@@ -27,7 +27,7 @@ The topics that are delves into are listed below:
 
 | *ExamName*             | *Exam Date*      | *Link:*                                                                                   |
 |:-----------------------|:-----------------|:---------------------------------------------------------------------------------------|
-| Exam Preparation I     | 2023             | [Link]()    |
-| Exam Preparation II    | 2023             | [Link]() |
-| Python ORM - Exam      | 26 November 2023 | [Link]()    |
+| Exam Preparation I     | 2023             | [Link](https://github.com/Devihem/SoftUni_Solutions_Python_Django_ORM/tree/master/0%20all_exams/exam_I)    |
+| Exam Preparation II    | 2023             | [Link](https://github.com/Devihem/SoftUni_Solutions_Python_Django_ORM/tree/master/0%20all_exams/exam_II) |
+| Python ORM - Exam      | 26 November 2023 | [Link](https://github.com/Devihem/SoftUni_Solutions_Python_Django_ORM/tree/master/0%20all_exams/Python%20ORM%20Regular%20Exam%20-%2026%20November%202023)    |
 
